@@ -19,7 +19,7 @@ django-heroku==0.3.1
 django-push-notifications==2.0.0
 django-templated-mail==1.1.1
 django-widget-tweaks==1.4.8
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djoser==2.0.3
 gunicorn==20.0.4
 h2==2.6.2
